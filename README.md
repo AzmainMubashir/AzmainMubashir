@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AzmainMubashir
 - 🌱 Learning Web Development
 - 🚩 Lives in Gazipur,Dhaka,Bangladesh
-- 🏢 Currently Studing B.Sc in Civil Engineering at Mymensingh Engineering College
+- 🏢 Studing B.Sc in Civil Engineering at Mymensingh Engineering College
 - 📫 How to reach me...? ... Check my Profile 😉
