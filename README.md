@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AzmainMubashir
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Check my Profile ...
+- 🌱 Learning Web Development
+- 🚩 Lives in Gazipur,Dhaka,Bangladesh
+- 🏢 Currently Studing B.Sc in Civil Engineering at Mymensingh Engineering College
+- 📫 How to reach me...? ... Check my Profile 😉
